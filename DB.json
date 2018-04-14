@@ -1,0 +1,875 @@
+{
+	"Kraje": [
+		{
+			"nazwa": "Austria",
+			"kod": "AT",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Bregenz"
+				},
+				{
+					"nazwa": "Innsbruk"
+				},
+				{
+					"nazwa": "Salzburg" 
+				},
+				{
+					"nazwa": "Klagenfurt" 
+				},
+				{
+					"nazwa": "Linz"
+				},
+				{
+					"nazwa": "Vienna"
+				},
+				{
+					"nazwa": "Eisenstadt" 
+				},
+				{
+					"nazwa": "Graz"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Belgium",
+			"kod": "BE",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Brussels"
+				},
+				{
+					"nazwa": "Antwerp"
+				},
+				{
+					"nazwa": "Ghent"
+				},
+				{
+					"nazwa": "Charleroi"
+				},
+				{
+					"nazwa": "Schaerbeek"
+				},
+				{
+					"nazwa": "Bruges"
+				},
+				{
+					"nazwa": "Anderlecht"
+				},
+				{
+					"nazwa": "Namur"
+				},
+				{
+					"nazwa": "Leuven"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Bulgaria",
+			"kod": "BG",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Sofia"
+				},
+				{
+					"nazwa": "Plovdiv"
+				},
+				{
+					"nazwa": "Varna"
+				},
+				{
+					"nazwa": "Burgas"
+				},
+				{
+					"nazwa": "Rousse"
+				},
+				{
+					"nazwa": "Stara Zagora"
+				},
+				{
+					"nazwa": "Pleven"
+				},
+				{
+					"nazwa": "Sliven"
+				},
+				{
+					"nazwa": "Dobrich"
+				},
+				{
+					"nazwa": "Shumen"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Croatia",
+			"kod": "HR",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Zagreb"
+				},
+				{
+					"nazwa": "Split"
+				},
+				{
+					"nazwa": "Rijeka"
+				},
+				{
+					"nazwa": "Osijek"
+				},
+				{
+					"nazwa": "Zadar"
+				},
+				{
+					"nazwa": "Slovonski Brod"
+				},
+				{
+					"nazwa": "Pula"
+				},
+				{
+					"nazwa": "Sesvete"
+				},
+				{
+					"nazwa": "Karlovac"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Cyprus",
+			"kod": "CY",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Nicosia" 
+				},
+				{
+					"nazwa": "Limassol"
+				},
+				{
+					"nazwa": "Larnaca"
+				},
+				{
+					"nazwa": "Famagusta"
+				},
+				{
+					"nazwa": "Paphos"
+				},
+				{
+					"nazwa": "Kyrenia"
+				},
+				{
+					"nazwa": "Protaras"
+				},
+				{
+					"nazwa": "Aradippou"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Czech Republic",
+			"kod": "CZ",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Prague"
+				},
+				{
+					"nazwa": "Brno"
+				},
+				{
+					"nazwa": "Ostrava"
+				},
+				{
+					"nazwa": "Pilsen"
+				},
+				{
+					"nazwa": "Olomouc"
+				},
+				{
+					"nazwa": "Liberec"
+				},
+				{
+					"nazwa": "Budweis"
+				},
+				{
+					"nazwa": "Pardubice"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Denmark",
+			"kod": "DK",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Copenhagen"
+				},
+				{
+					"nazwa": "Aarhus"
+				},
+				{
+					"nazwa": "Odense"
+				},
+				{
+					"nazwa": "Aalborg"
+				},
+				{
+					"nazwa": "Frederiksberg"
+				},
+				{
+					"nazwa": "Esbjerg"
+				},
+				{
+					"nazwa": "Randers"
+				},
+				{
+					"nazwa": "Kolding"
+				},
+				{
+					"nazwa": "Vejle"
+				},
+				{
+					"nazwa": "Horsens"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Estonia",
+			"kod": "EE",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Tallinn"
+				},
+				{
+					"nazwa": "Tartu"
+				},
+				{
+					"nazwa": "Narva"
+				},
+				{
+					"nazwa": "Vijandi"
+				},
+				{
+					"nazwa": "Rakvere"
+				},
+				{
+					"nazwa": "Maardu"
+				},
+				{
+					"nazwa": "Kuressaare"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Finland",
+			"kod": "FI",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Heisinki"
+				},
+				{
+					"nazwa": "Espoo"
+				},
+				{
+					"nazwa": "Tampere"
+				},
+				{
+					"nazwa": "Vantaa"
+				},
+				{
+					"nazwa": "Turku"
+				},
+				{
+					"nazwa": "Oulu"
+				},
+				{
+					"nazwa": "Lahti"
+				},
+				{
+					"nazwa": "Kuopio"
+				},
+				{
+					"nazwa": "Jyvaskyla"
+				},
+				{
+					"nazwa": "Pori"
+				}
+			]
+
+		},
+		{
+			"nazwa": "France",
+			"kod": "FR",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Paris"
+				},
+				{
+					"nazwa": "Marseille"
+				},
+				{
+					"nazwa": "Lyon"
+				},
+				{
+					"nazwa": "Toulouse"
+				},
+				{
+					"nazwa": "Nice"
+				},
+				{
+					"nazwa": "Nantes"
+				},
+				{
+					"nazwa": "Strasbourg"
+				},
+				{
+					"nazwa": "Montpellier"
+				},
+				{
+					"nazwa": "Bordeaux"
+				},
+				{
+					"nazwa": "Lille"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Greece",
+			"kod": "GR",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Athens"
+				},
+				{
+					"nazwa": "Thessaloniki"
+				},
+				{
+					"nazwa": "Piraeus"
+				},
+				{
+					"nazwa": "Larissa"
+				},
+				{
+					"nazwa": "Peristeri"
+				},
+				{
+					"nazwa": "Heraklion"
+				},
+				{
+					"nazwa": "Kallithea"
+				},
+				{
+					"nazwa": "Acharnes"
+				},
+				{
+					"nazwa": "Kalamaria"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Spain",
+			"kod": "ES",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Madrid"
+				},
+				{
+					"nazwa": "Barcelona"
+				},
+				{
+					"nazwa": "Valencia"
+				},
+				{
+					"nazwa": "Seville"
+				},
+				{
+					"nazwa": "Zaragoza"
+				},
+				{
+					"nazwa": "Murcia"
+				},
+				{
+					"nazwa": "Palma"
+				},
+				{
+					"nazwa": "Bilbao"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Ireland",
+			"kod": "IE",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Dublin"
+				},
+				{
+					"nazwa": "Cork"
+				},
+				{
+					"nazwa": "Limerick"
+				},
+				{
+					"nazwa": "Galway"
+				},
+				{
+					"nazwa": "Tallaght"
+				},
+				{
+					"nazwa": "Waterford"
+				},
+				{
+					"nazwa": "Swords"
+				},
+				{
+					"nazwa": "Drogheda"
+				},
+				{
+					"nazwa": "Dundalk"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Lithuania",
+			"kod": "LT",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Vilnius"
+				},
+				{
+					"nazwa": "Kaunas"
+				},
+				{
+					"nazwa": "Panevezys"
+				},
+				{
+					"nazwa": "Alytus"
+				},
+				{
+					"nazwa": "Jonava"
+				},
+				{
+					"nazwa": "Utena"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Luxemburg",
+			"kod": "LU",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Luxembourg"
+				},
+				{
+					"nazwa": "Dudelange"
+				},
+				{
+					"nazwa": "Schifflange"
+				},
+				{
+					"nazwa": "Bettembourg"
+				},
+				{
+					"nazwa": "Ettelbruck"
+				},
+				{
+					"nazwa": "Diekirch"
+				},
+				{
+					"nazwa": "Strassen"
+				},
+				{
+					"nazwa": "Bertrange"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Latvia",
+			"kod": "LV",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Riga"
+				},
+				{
+					"nazwa": "Daugavpils" 
+				},
+				{
+					"nazwa": "Jelgava"
+				},
+				{
+					"nazwa": "Ventspils"
+				},
+				{
+					"nazwa": "Valmiera"
+				},
+				{
+					"nazwa": "Ogre"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Malta",
+			"kod": "MT",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Birkirkara"
+				},
+				{
+					"nazwa": "Qormi"
+				},
+				{
+					"nazwa": "Mosta"
+				},
+				{
+					"nazwa": "Saint John"
+				},
+				{
+					"nazwa": "Fgura"
+				},
+				{
+					"nazwa": "Sliema"
+				},
+				{
+					"nazwa": "Haz-Zebbug"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Netherlands",
+			"kod": "NL",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Amsterdam"
+				},
+				{
+					"nazwa": "Rotterdam"
+				},
+				{
+					"nazwa": "The Hague"
+				},
+				{
+					"nazwa": "Utrecht"
+				},
+				{
+					"nazwa": "Eindhoven"
+				},
+				{
+					"nazwa": "Tilburg"
+				},
+				{
+					"nazwa": "Groningen"
+				},
+				{
+					"nazwa": "Almere Stad"
+				},
+				{
+					"nazwa": "Breda"
+				},
+				{
+					"nazwa": "Nijmegen"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Germany",
+			"kod": "DE",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Berlin"
+				},
+				{
+					"nazwa": "Hamburg"
+				},
+				{
+					"nazwa": "Munich"
+				},
+				{
+					"nazwa": "Cologne"
+				},
+				{
+					"nazwa": "Frankfurt"
+				},
+				{
+					"nazwa": "Essen"
+				},
+				{
+					"nazwa": "Stuttgart"
+				},
+				{
+					"nazwa": "Dortmund"
+				},
+				{
+					"nazwa": "Dusseldorf"
+				},
+				{
+					"nazwa": "Bremen"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Poland",
+			"kod": "PL",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Warsaw"
+				},
+				{
+					"nazwa": "Krakow"
+				},
+				{
+					"nazwa": "Łódź"
+				},
+				{
+					"nazwa": "Wrocław"
+				},
+				{
+					"nazwa": "Poznań"
+				},
+				{
+					"nazwa": "Gdańsk"
+				},
+				{
+					"nazwa": "Szczecin"
+				},
+				{
+					"nazwa": "Bydgoszcz"
+				},
+				{
+					"nazwa": "Lublin"
+				},
+				{
+					"nazwa": "Katowice"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Portugal",
+			"kod": "PT",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Lisbon"
+				},
+				{
+					"nazwa": "Porto"
+				},
+				{
+					"nazwa": "Amadora"
+				},
+				{
+					"nazwa": "Braga"
+				},
+				{
+					"nazwa": "Coimbra"
+				},
+				{
+					"nazwa": "Queluz"
+				},
+				{
+					"nazwa": "Funchal"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Romania",
+			"kod": "RO",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Bucharest"
+				},
+				{
+					"nazwa": "Craiova"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Slovakia",
+			"kod": "SK",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Bratislava"
+				},
+				{
+					"nazwa": "Kosice"
+				},
+				{
+					"nazwa": "Presov"
+				},
+				{
+					"nazwa": "Nitra"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Slovenia",
+			"kod": "SI",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Ljubljana"
+				},
+				{
+					"nazwa": "Maribor"
+				},
+				{
+					"nazwa": "Celje"
+				},
+				{
+					"nazwa": "Kranj"
+				},
+				{
+					"nazwa": "Velenje"
+				},
+				{
+					"nazwa": "Koper"
+				},
+				{
+					"nazwa": "Novo Mesto"
+				},
+				{
+					"nazwa": "Ptuj"
+				},
+				{
+					"nazwa": "Trbovlje"
+				},
+				{
+					"nazwa": "Kamnik"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Sweden",
+			"kod": "SE",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Stockholm"
+				},
+				{
+					"nazwa": "Gothenburg"
+				},
+				{
+					"nazwa": "Malmo"
+				},
+				{
+					"nazwa": "Uppsala"
+				},
+				{
+					"nazwa": "Sollentuna"
+				},
+				{
+					"nazwa": "Helsingborg"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Hungary",
+			"kod": "HU",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Budapest"
+				},
+				{
+					"nazwa": "Debrecen"
+				},
+				{
+					"nazwa": "Miskolc"
+				},
+				{
+					"nazwa": "Szeged"
+				}
+			]
+
+		},
+		{
+			"nazwa": "United Kingdom",
+			"kod": "GB",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "London"
+				},
+				{
+					"nazwa": "Birmingham"
+				},
+				{
+					"nazwa": "Liverpool"
+				},
+				{
+					"nazwa": "Nottingham"
+				},
+				{
+					"nazwa": "Sheffield"
+				},
+				{
+					"nazwa": "Bristol"
+				},
+				{
+					"nazwa": "Glasgow"
+				},
+				{
+					"nazwa": "Leicester"
+				},
+				{
+					"nazwa": "Edinburgh"
+				},
+				{
+					"nazwa": "Leeds"
+				}
+			]
+
+		},
+		{
+			"nazwa": "Italy",
+			"kod": "IT",
+			"waluta": "EUR",
+			"miasta": [{
+					"nazwa": "Rome"
+				},
+				{
+					"nazwa": "Milan"
+				},
+				{
+					"nazwa": "Naples"
+				},
+				{
+					"nazwa": "Turin"
+				},
+				{
+					"nazwa": "Palermo"
+				},
+				{
+					"nazwa": "Genoa"
+				},
+				{
+					"nazwa": "Bologna"
+				},
+				{
+					"nazwa": "Florence"
+				},
+				{
+					"nazwa": "Catania"
+				},
+				{
+					"nazwa": "Bari"
+				}
+			]
+
+		}
+	]
+}
